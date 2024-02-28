@@ -1,4 +1,4 @@
-<em> Barberia ALURA </em>
+<h1> Barberia ALURA </h1>
 
 Proyecto de una e-commerce de una barbería, realizado con el curso de Oracle + ALURA. 
 Contienen sólo HTML5 y CSS3.
